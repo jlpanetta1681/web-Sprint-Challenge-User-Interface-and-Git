@@ -105,7 +105,7 @@ p {
 }
 
 .middle-content {
-    width:80%
+    width:50%;
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
 }
@@ -119,60 +119,46 @@ p {
 .middle-content .first-five{
     display:flex;
     justify-content: space-between;
-    width: 50%;
-    
-  
-    
-    
-     
-}
-.middle-content .next-five{
+}  
+  .middle-content .next-five{
     display:flex;
     justify-content: space-between;
-    width:50%;
-    
-    
 }
 
 
 
 .middle-content .first-five div {
-   
+ padding: 6.5%;
     color: white;
-   
 }
 .middle-content .next-five div {
-   
-    
-    
+   padding: 6.5%;
     color: white;
-    
-  
 }
 
 
 .teal-box {
-    margin:10%;
     width: 50%;
+    margin: 10%;
     background-color: teal;
 }
 .gold-box {
-    margin:10%;
+    margin: 10%;
     width: 50%;
     background-color: gold;
 } 
 .cadetblue-box {
-    margin:10%;
+    margin: 10%;
     width: 50%;
     background-color: cadetblue;
 }
 .coral-box {
-    margin:10%;
+    margin: 10%;
     width: 50%;
     background-color: coral;
 }
 .crimson-box {
-    margin:10%;
+    margin: 10%;
     width: 50%;
     background-color: crimson;
 } 
