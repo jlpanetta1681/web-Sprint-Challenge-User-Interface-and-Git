@@ -1,0 +1,9 @@
+.body {
+    box-sizing: border-box;
+}
+
+     .big-container-top .top-box-pics{
+         display:flex;
+         justify-content: space-between;
+        
+     }
