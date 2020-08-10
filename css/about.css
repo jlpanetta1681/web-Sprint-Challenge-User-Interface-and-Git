@@ -17,7 +17,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0 5%;
+    margin: 0 2%;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -82,7 +82,7 @@ nav {
     align-items: center;
     font-size: 14px;
  }
-#top-image{
+#big-pic{
     width: 100%;
 }
 
@@ -99,7 +99,7 @@ nav {
     display:flex;
     justify-content: space-around;
     align-items: center;
-    margn-bottom: 2%;
+    margin-bottom: 2%;
 }
 .strategy-box{
     border-bottom: 2px dashed black;
@@ -113,4 +113,7 @@ nav {
 }
 .collaboration-box{
       border-bottom: 2px dashed gray;
+}
+button{
+    padding: 2%;
 }
